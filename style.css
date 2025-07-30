@@ -3,6 +3,12 @@
 2. CLASS NAME - . before the CLASS NAME
 3. ID NAME - # before the ID NAME
 */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body{
   background-color: #2ea9ea;
 }
